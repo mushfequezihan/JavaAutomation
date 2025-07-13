@@ -10,6 +10,7 @@ public class Sample {
 		 */
 		System.out.println("I love Coffee!");
 		System.out.println("Java means Coffee LOL");
+		System.out.println(1+2);
 	}
 
 }
