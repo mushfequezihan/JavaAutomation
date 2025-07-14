@@ -1,4 +1,4 @@
-package Test;
+package datatypes;
 
 import java.util.Arrays;
 

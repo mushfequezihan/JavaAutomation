@@ -1,4 +1,4 @@
-package Test;
+package datatypes;
 
 public class Sample {
 	
