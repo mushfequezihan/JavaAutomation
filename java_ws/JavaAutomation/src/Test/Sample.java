@@ -63,7 +63,7 @@ public class Sample {
 		System.out.println("global CHAR value: " + charVarGlobal);	
 		System.out.println("");
 		
-		oneMoreMethod();
+		oneMoreMethod(); // method call
 	}
 	
 	//scope of variables only global is accessible not local in method
