@@ -1,6 +1,8 @@
 package oop;
 
-public class Classes {
+import oopautomobile.Car;
+
+public class CarMainClass {
 
 	public static void main(String[] args) {
 		
