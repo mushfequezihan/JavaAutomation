@@ -1,6 +1,4 @@
-package oop;
-
-import oopautomobile.Car;
+package oopautomobile;
 
 public class CarMainClass {
 

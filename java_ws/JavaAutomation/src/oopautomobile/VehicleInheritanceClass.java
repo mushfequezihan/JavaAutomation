@@ -1,7 +1,4 @@
-package oop;
-
-import oopautomobile.Vehicle;
-import oopautomobile.VehicleBMW;
+package oopautomobile;
 
 public class VehicleInheritanceClass {
 
@@ -11,12 +8,12 @@ public class VehicleInheritanceClass {
 		
 		//different object class and inherited methods
 		System.out.println("From Vehicle class:");
-		Vehicle v1 = new Vehicle(speed);
+		VehicleInherit v1 = new VehicleInherit(speed);
 		v1.increaseSpeed();
 		
 		System.out.println("");
 		System.out.println("From BMW class including Vehicle:");
-		VehicleBMW vb1 = new VehicleBMW(speed);
+		VehicleInheritBMW vb1 = new VehicleInheritBMW(speed);
 		vb1.increaseSpeed();
 		vb1.headupDisplayNav();
 	}

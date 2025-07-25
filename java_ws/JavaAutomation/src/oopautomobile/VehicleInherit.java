@@ -1,12 +1,12 @@
 package oopautomobile;
 
 //class
-public class Vehicle {
+public class VehicleInherit {
 
 	private int speed;
 	
 	//constructor
-	public Vehicle(int speed) {
+	public VehicleInherit(int speed) {
 
 		this.speed = speed;
 	}

@@ -1,9 +1,9 @@
 package oopautomobile;
 
-public class VehicleBMW extends Vehicle{
+public class VehicleInheritBMW extends VehicleInherit{
 
 	//constructor invoking Vehicle constructor
-	public VehicleBMW(int speed) {
+	public VehicleInheritBMW(int speed) {
 		super(speed);
 	}
 
