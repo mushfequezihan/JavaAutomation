@@ -1,4 +1,4 @@
-package oopautomobile;
+package classmethods;
 
 /*
  * difference in data types of arguments

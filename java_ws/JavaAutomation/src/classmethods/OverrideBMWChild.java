@@ -1,4 +1,4 @@
-package oopautomobile;
+package classmethods;
 
 /*
  * argument list: argument should be same for parent and child class method for override

@@ -1,4 +1,4 @@
-package oopautomobile;
+package classmethods;
 
 public class MethodsDemo {
 

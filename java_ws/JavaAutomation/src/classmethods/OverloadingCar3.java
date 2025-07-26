@@ -1,4 +1,4 @@
-package oopautomobile;
+package classmethods;
 
 /*
  * sequence of data types of arguments

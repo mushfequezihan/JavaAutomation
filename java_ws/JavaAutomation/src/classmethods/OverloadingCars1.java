@@ -1,4 +1,4 @@
-package oopautomobile;
+package classmethods;
 
 /*
  * different number of parameter in argument list
